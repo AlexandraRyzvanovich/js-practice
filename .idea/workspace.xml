@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fad269c9-33f4-406b-b0bc-8db6a1ea04bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPmieBKU3g9ioYIRrIfNy7FUPi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.58" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.tasks.test.js">
+    <configuration name="matrixMultiplication" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/scripts/tasks.test.js" />
+      <test-names>
+        <test-name value="matrixMultiplication" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="redundant" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/scripts/tasks.test.js" />
+      <test-names>
+        <test-name value="redundant" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="repeatingLetters" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/scripts/tasks.test.js" />
+      <test-names>
+        <test-name value="repeatingLetters" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/scripts/tasks.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="towerHanoi" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/scripts/tasks.test.js" />
+      <test-names>
+        <test-name value="towerHanoi" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.tasks.test.js" />
+        <item itemvalue="Jest.redundant" />
+        <item itemvalue="Jest.repeatingLetters" />
+        <item itemvalue="Jest.towerHanoi" />
+        <item itemvalue="Jest.matrixMultiplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad269c9-33f4-406b-b0bc-8db6a1ea04bf" name="Default Changelist" comment="" />
+      <created>1599921230221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599921230221</updated>
+      <workItem from="1599921231357" duration="43209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1828" y="-107" width="1736" height="856" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600121086360">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="-107" width="1736" height="856" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600121086360" />
+    <state x="-1230" y="68" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600123219143">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="68" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600123219143" />
+    <state width="1899" height="225" key="GridCell.Tab.0.bottom" timestamp="1600123249894">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600123249894" />
+    <state width="1899" height="225" key="GridCell.Tab.0.center" timestamp="1600123249893">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="225" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600123249893" />
+    <state width="1899" height="225" key="GridCell.Tab.0.left" timestamp="1600123249893">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="225" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600123249893" />
+    <state width="1899" height="225" key="GridCell.Tab.0.right" timestamp="1600123249894">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="225" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600123249894" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600112210134">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210134" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600112210134">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210134" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600112210134">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210134" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.center/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.left/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.right/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.center/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.left/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1600112210135">
+      <screen x="-1920" y="-199" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1536.824/-1920.-199.1920.1040@-1920.-199.1920.1040" timestamp="1600112210135" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/main.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/js_practice$Add_seconds.info" NAME="Add seconds Coverage Results" MODIFIED="1600121507260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
